@@ -1,3 +1,3 @@
 # AntiZorbalik WebTarayicisi -- Atakum Bilsem
 
-![Örnek Görsel](LOGO.png)
+![Örnek Görsel](LOGO.jpeg)
